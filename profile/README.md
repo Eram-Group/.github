@@ -73,31 +73,6 @@
 
 <br/>
 
-## 📂 Our Projects
-
-<div align="center">
-
-<a href="https://github.com/Eram-Group/agents-web-builder">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Eram-Group&repo=agents-web-builder&theme=tokyonight&hide_border=true&show_owner=false" alt="agents-web-builder"/>
-</a>
-<a href="https://github.com/Eram-Group/homeservices-delete-account">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Eram-Group&repo=homeservices-delete-account&theme=tokyonight&hide_border=true&show_owner=false" alt="homeservices-delete-account"/>
-</a>
-<a href="https://github.com/Eram-Group/backend-template">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Eram-Group&repo=backend-template&theme=tokyonight&hide_border=true&show_owner=false" alt="backend-template"/>
-</a>
-<a href="https://github.com/Eram-Group/eramsoft-website">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Eram-Group&repo=eramsoft-website&theme=tokyonight&hide_border=true&show_owner=false" alt="eramsoft-website"/>
-</a>
-
-<br/><br/>
-
-[![See all repositories](https://img.shields.io/badge/See%20all%20repositories-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/orgs/Eram-Group/repositories)
-
-</div>
-
-<br/>
-
 ## 👥 Meet the Team
 
 <table>

@@ -4,16 +4,14 @@
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2563EB,100:1E40AF&height=200&section=header&text=Eram%20Group&fontSize=58&fontColor=ffffff&fontAlignY=38&desc=The%20complete%20business%20solutions&descSize=20&descAlignY=60&animation=fadeIn" width="100%" alt="Eram Group"/>
-
-<br/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2563EB,100:1E40AF&height=210&section=header&text=Eram%20Group&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=The%20complete%20business%20solutions&descSize=20&descAlignY=60&animation=fadeIn" width="100%" alt="Eram Group"/>
 
 [![Website](https://img.shields.io/badge/Visit%20Website-eramgroupsa.com-2563EB?style=for-the-badge&logo=googlechrome&logoColor=white)](https://www.eramgroupsa.com/)
 &nbsp;
 [![Location](https://img.shields.io/badge/Based%20in-Saudi%20Arabia-15803D?style=for-the-badge&logo=googlemaps&logoColor=white)](https://www.eramgroupsa.com/)
 
 <a href="https://readme-typing-svg.demolab.com">
-  <img src="https://readme-typing-svg.demolab.com/?font=Poppins&weight=600&size=22&pause=1000&color=2563EB&center=true&vCenter=true&width=600&lines=Web+%E2%80%A2+Mobile+%E2%80%A2+Backend;Building+digital+products+that+scale;From+idea+to+launch%2C+end+to+end" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com/?font=Poppins&weight=600&size=22&pause=1000&color=2563EB&center=true&vCenter=true&width=650&lines=Web+%E2%80%A2+Mobile+%E2%80%A2+Backend;Building+digital+products+that+scale;From+idea+to+launch%2C+end+to+end" alt="Typing SVG" />
 </a>
 
 </div>
@@ -75,6 +73,31 @@
 
 <br/>
 
+## 📂 Our Projects
+
+<div align="center">
+
+<a href="https://github.com/Eram-Group/agents-web-builder">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Eram-Group&repo=agents-web-builder&theme=tokyonight&hide_border=true&show_owner=false" alt="agents-web-builder"/>
+</a>
+<a href="https://github.com/Eram-Group/homeservices-delete-account">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Eram-Group&repo=homeservices-delete-account&theme=tokyonight&hide_border=true&show_owner=false" alt="homeservices-delete-account"/>
+</a>
+<a href="https://github.com/Eram-Group/backend-template">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Eram-Group&repo=backend-template&theme=tokyonight&hide_border=true&show_owner=false" alt="backend-template"/>
+</a>
+<a href="https://github.com/Eram-Group/eramsoft-website">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Eram-Group&repo=eramsoft-website&theme=tokyonight&hide_border=true&show_owner=false" alt="eramsoft-website"/>
+</a>
+
+<br/><br/>
+
+[![See all repositories](https://img.shields.io/badge/See%20all%20repositories-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/orgs/Eram-Group/repositories)
+
+</div>
+
+<br/>
+
 ## 👥 Meet the Team
 
 <table>
@@ -88,19 +111,9 @@
     <td align="center" width="25%"><a href="https://github.com/yassmeensamy"><img src="https://github.com/yassmeensamy.png" width="90" style="border-radius:50%" alt="yassmeensamy"/><br/><b>Yassmeen Samy</b></a><br/><sub>Flutter Developer</sub></td>
     <td align="center" width="25%"><a href="https://github.com/salmawagdy"><img src="https://github.com/salmawagdy.png" width="90" style="border-radius:50%" alt="salmawagdy"/><br/><b>Salma Wagdy</b></a><br/><sub>Developer</sub></td>
     <td align="center" width="25%"><a href="https://github.com/eramsoft"><img src="https://github.com/eramsoft.png" width="90" style="border-radius:50%" alt="eramsoft"/><br/><b>EramSoft</b></a><br/><sub>Company Account</sub></td>
-    <td align="center" width="25%"></td>
+    <td align="center" width="25%"><a href="https://github.com/eram-bot"><img src="https://github.com/eram-bot.png" width="90" style="border-radius:50%" alt="eram-bot"/><br/><b>Eram Bot</b></a><br/><sub>🤖 Automation</sub></td>
   </tr>
 </table>
-
-<br/>
-
-## 📊 Languages We Use
-
-<div align="center">
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Eram-Group&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&card_width=420)
-
-</div>
 
 <br/>
 

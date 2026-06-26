@@ -78,9 +78,9 @@
 <table>
   <tr>
     <td align="center" width="25%"><a href="https://github.com/Haleem-rafat"><img src="https://github.com/Haleem-rafat.png" width="90" style="border-radius:50%" alt="Haleem-rafat"/><br/><b>Haleem Rafat</b></a><br/><sub>Front-End Developer</sub></td>
-    <td align="center" width="25%"><a href="https://github.com/omargawdat"><img src="https://github.com/omargawdat.png" width="90" style="border-radius:50%" alt="omargawdat"/><br/><b>Omar Gawdat</b></a><br/><sub>Backend &amp; DevOps</sub></td>
+    <td align="center" width="25%"><a href="https://github.com/omargawdat"><img src="https://github.com/omargawdat.png" width="90" style="border-radius:50%" alt="omargawdat"/><br/><b>Omar Gawdat</b></a><br/><sub>Backend &amp; DevOps Engineer</sub></td>
     <td align="center" width="25%"><a href="https://github.com/islam-Diab99"><img src="https://github.com/islam-Diab99.png" width="90" style="border-radius:50%" alt="islam-Diab99"/><br/><b>Islam Diab</b></a><br/><sub>Mobile Developer</sub></td>
-    <td align="center" width="25%"><a href="https://github.com/mezo-dev"><img src="https://github.com/mezo-dev.png" width="90" style="border-radius:50%" alt="mezo-dev"/><br/><b>Moataz Fawzy</b></a><br/><sub>Developer</sub></td>
+    <td align="center" width="25%"><a href="https://github.com/mezo-dev"><img src="https://github.com/mezo-dev.png" width="90" style="border-radius:50%" alt="mezo-dev"/><br/><b>Moataz Fawzy</b></a><br/><sub>Backend Engineer</sub></td>
   </tr>
   <tr>
     <td align="center" width="25%"><a href="https://github.com/yassmeensamy"><img src="https://github.com/yassmeensamy.png" width="90" style="border-radius:50%" alt="yassmeensamy"/><br/><b>Yassmeen Samy</b></a><br/><sub>Flutter Developer</sub></td>
